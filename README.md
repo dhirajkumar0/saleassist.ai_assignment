@@ -1,7 +1,7 @@
 # SaleAssist.ai_ Assignment
 
 
-## Deployment Link:- [saleassist.ai-assignment-sushobit](https://main--tranquil-genie-77b112.netlify.app/)
+## Deployment Link:- [https://saleassist-dynamic-product-listing.netlify.app/)
 
 ## Video 
 
