@@ -1,0 +1,15 @@
+.topcontaineroptions {
+    background-color: black;
+   height: 10vh;
+    top: 69px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.imageoption {
+    width: 472px;
+    height: 18px;
+    
+    left: 404px;
+}

@@ -1,0 +1,14 @@
+.allbagscontainer {
+    width: Hug (1,216.6px);
+    height: Hug (483.43px);
+    top: 359px;
+    left: 32px;
+    gap: 32px;
+    background-color: black;
+    height: max-content;
+
+}
+.allbagoption {
+    width: 98%;
+    padding: 10px;
+}
